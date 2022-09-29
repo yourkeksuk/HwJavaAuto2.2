@@ -14,6 +14,6 @@ public class NetologyTest {
                 .post("/post")
                 .then()
                 .statusCode(200)
-                .body("[0].data", equalTo("some value"));
+                .body("data", equalTo("some data"));
     }
 }
