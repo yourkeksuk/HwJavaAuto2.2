@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/28nc8aauh1cqcw3f?svg=true)](https://ci.appveyor.com/project/yourkeksuk/hwjavaauto2-2)
